@@ -39,8 +39,8 @@ const numbeOfDaysInMonth = {
     ['11-23']: 30,
     ['12-23']: 31,
 }
-const firtsDay = 14;
-const firstMonth = 5;
+const firtsDay = 8;
+const firstMonth = 6;
 const firstYear = 22;
 const dayNow = new Date().getDate();
 const monthNow = new Date().getMonth() + 1;
